@@ -4,6 +4,6 @@ This collaborative project is based on micro-reddit website, as a part of the as
 
 
 <h1><b> Authors:</b></h1>
-<a href="https://github.com/gonjavi/">Gonzalo Javier Mancilla</a>--- 
-<a href="https://github.com/"> Daniel Alejandro Salgado</a> 
+<a href="https://github.com/gonjavi/">Gonzalo Javier Mancilla</a>
+<a href="https://github.com/AlejoCode">Daniel Alejandro Salgado</a> 
 
