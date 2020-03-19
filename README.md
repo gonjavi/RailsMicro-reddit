@@ -13,18 +13,6 @@ The project proposed is in the follwing link:
 - A Comment belong to a User and a Post.
 
 
-## Authors:
- 👤 **Gonza Javier Mancilla**
-
-- Github: [@github/gonjavi](https://github.com/gonjavi)
-- Linkedin: [linkedin](https://www.linkedin.com/in/g-javier-mancilla-a686a9178/)
-
- 👤 **Daniel alejandro Salgado**
-
-- Github: [@github/alejocode](https://github.com/AlejoCode)
-- Linkedin: [linkedin](https://www.linkedin.com/in/daniel-alejandro-salgado-sanchez-13a740b1/)
-
-
 ## Built with
 ```bash
   Ruby 2.6.3
@@ -67,6 +55,20 @@ The comment migration have the follwing fields user_id, post_id, and comment, ac
 - c = Comment.new(user_id: 1, post_id: 1, comment: "it is really good")
 - c.save!    it should return true
 - type Comment.all  to check all the comments saved on the database
+
+
+## Authors:
+ 👤 **Gonza Javier Mancilla**
+
+- Github: [@github/gonjavi](https://github.com/gonjavi)
+- Linkedin: [linkedin](https://www.linkedin.com/in/g-javier-mancilla-a686a9178/)
+
+ 👤 **Daniel alejandro Salgado**
+
+- Github: [@github/alejocode](https://github.com/AlejoCode)
+- Linkedin: [linkedin](https://www.linkedin.com/in/daniel-alejandro-salgado-sanchez-13a740b1/)
+
+
   
   ## 🤝 Contributing
 
